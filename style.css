@@ -1,0 +1,79 @@
+
+
+#simon
+{
+    border: solid 1px black;
+    background-color: orangered;
+    width: 125px;
+    height: 200px;
+    top: 250px;
+    left: 150px;
+    position: relative;
+}
+
+.table
+{
+    border: solid 3px black;
+    background-color: orange;
+    width: 200px;
+    height: 125px;
+    position: absolute;
+}
+
+.nom1 {
+    border-radius: 5px;
+    background-color: darkslategray;
+    position: absolute;
+    width: 75px;
+    height: 50px;
+    top: -20px;
+    left: 10px;
+
+}
+
+.nom2
+{
+        border-radius: 5px;
+        background-color: darkslategray;
+        position: absolute;
+        width: 75px;
+        height: 50px;
+        top:-20px ;
+        left: 100px;
+}
+
+div
+{
+   text-align: center;
+}
+
+#nom1
+{
+    border-radius: 5px;
+    background-color: darkslategray;
+    position: absolute;
+    width: 75px;
+    height: 50px;
+}
+
+.nom3
+{
+    border-radius: 5px;
+    background-color: darkslategray;
+    position: absolute;
+    width: 75px;
+    height: 50px;
+    top: 100px ;
+    left: 10px;
+}
+
+.nom4
+{
+    border-radius: 5px;
+    background-color: darkslategray;
+    position: absolute;
+    width: 75px;
+    height: 50px;
+    top: 100px ;
+    left: 100px;
+}
